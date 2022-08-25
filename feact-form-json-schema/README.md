@@ -13,19 +13,19 @@ A form is generated from JSON Schema including validation rules. This form is no
 
 ## Preview
 * Default page of the web app
-<img src="screenshots/screencapture-localhost-5000-2022-05-11-14_27_13.png" width="100%" height="500"> &nbsp;
+<img src="screenshots/screencapture-localhost-3000-2022-08-25-14_06_04.png" width="100%" height="500"> &nbsp;
 ***
-* Login if you are old user to shorten the original url.
-<img src="screenshots/screencapture-localhost-5000-login-2022-05-11-14_27_29.png" width="100%" height="500"> &nbsp;
+* First Name validation.
+<img src="screenshots/screencapture-localhost-3000-2022-08-25-14_06_21.png" width="100%" height="500"> &nbsp;
 ***
-* Regsiter if you are new user.
-<img src="screenshots/screencapture-localhost-5000-register-2022-05-11-14_27_55.png" width="100%" height="500"> &nbsp;
+* Email Validation.
+<img src="screenshots/screencapture-localhost-3000-2022-08-25-14_06_38.png" width="100%" height="500"> &nbsp;
 ***
-* Insert your url.
-<img src="screenshots/screencapture-localhost-5000-2022-05-11-14_28_10.png" width="100%" height="500"> &nbsp;
+* Password Validation.
+<img src="screenshots/screencapture-localhost-3000-2022-08-25-14_06_55.png" width="100%" height="500"> &nbsp;
 ***
-* Output (Short url) for your original url.
-<img src="screenshots/screencapture-localhost-5000-2022-05-11-14_28_26.png" width="100%" height="500"> &nbsp;
+* Output after successful form submission.
+<img src="screenshots/Screenshot (734).png" width="100%" height="500"> &nbsp;
 
 
 
