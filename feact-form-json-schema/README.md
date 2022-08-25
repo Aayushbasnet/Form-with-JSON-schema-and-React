@@ -1,3 +1,39 @@
+
+# Form using React
+A form is generated from JSON Schema including validation rules. This form is now generated in React with that schema.
+
+## Developed using 
+> Languages:<br>
+  > 1. HTML
+  > 2. CSS
+  > 3. JAVASCRIPT<br>
+ 
+> Framework:<br>
+  > 1. React.js<br>
+
+## Preview
+* Default page of the web app
+<img src="screenshots/screencapture-localhost-5000-2022-05-11-14_27_13.png" width="100%" height="500"> &nbsp;
+***
+* Login if you are old user to shorten the original url.
+<img src="screenshots/screencapture-localhost-5000-login-2022-05-11-14_27_29.png" width="100%" height="500"> &nbsp;
+***
+* Regsiter if you are new user.
+<img src="screenshots/screencapture-localhost-5000-register-2022-05-11-14_27_55.png" width="100%" height="500"> &nbsp;
+***
+* Insert your url.
+<img src="screenshots/screencapture-localhost-5000-2022-05-11-14_28_10.png" width="100%" height="500"> &nbsp;
+***
+* Output (Short url) for your original url.
+<img src="screenshots/screencapture-localhost-5000-2022-05-11-14_28_26.png" width="100%" height="500"> &nbsp;
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
